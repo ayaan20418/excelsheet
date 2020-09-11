@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79807" started-at="2020-09-11T08:59:10Z" finished-at="2020-09-11T09:00:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79807" started-at="2020-09-11T08:59:10Z" finished-at="2020-09-11T09:00:30Z">
+      <class name="excelread">
+        <test-method status="PASS" signature="enterthecredential(java.lang.String, java.lang.String)[pri:0, instance:excelread@1c62251]" name="enterthecredential" duration-ms="22702" started-at="2020-09-11T14:29:13Z" data-provider="passing" finished-at="2020-09-11T14:29:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterthecredential -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:excelread@1c62251]" name="teardown" is-config="true" duration-ms="5863" started-at="2020-09-11T14:29:35Z" finished-at="2020-09-11T14:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="enterthecredential(java.lang.String, java.lang.String)[pri:0, instance:excelread@1c62251]" name="enterthecredential" duration-ms="18040" started-at="2020-09-11T14:29:41Z" data-provider="passing" finished-at="2020-09-11T14:29:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterthecredential -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:excelread@1c62251]" name="teardown" is-config="true" duration-ms="6549" started-at="2020-09-11T14:29:59Z" finished-at="2020-09-11T14:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="enterthecredential(java.lang.String, java.lang.String)[pri:0, instance:excelread@1c62251]" name="enterthecredential" duration-ms="17984" started-at="2020-09-11T14:30:06Z" data-provider="passing" finished-at="2020-09-11T14:30:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterthecredential -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:excelread@1c62251]" name="teardown" is-config="true" duration-ms="5847" started-at="2020-09-11T14:30:24Z" finished-at="2020-09-11T14:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- excelread -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
